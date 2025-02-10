@@ -7,10 +7,9 @@ Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo.
 <p align="left">
     <a href="https://www.linkedin.com/in/rian-souza-24a030248/">
         <img
-        alt=""
-        title="Conecte-se comigo"
-        src="www.linkedin.com/in/rian-souza-24a030248" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-184-0077B5?style=for-the-badge&logo=icons8-linkedin-26&logoColor=white&labelColor=006097"
+            alt="Linkedin"
+            title="Conecte-se comigo"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-184-0077B5?style=for-the-badge&logo=icons8-linkedin-26&logoColor=white&labelColor=006097"
         />
     </a>
     <a href="https://www.instagram.com/rian_solma/">
@@ -28,7 +27,7 @@ Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo.
             src="https://custom-icon-badges.demolab.com/github/followers/RianLimaSouza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="mailto:rian.solma@gmail.com?subject=Assunto%20do%20Email&body=Olá%20Rian!!%0A%0AMe%20chamo">
+    <a href="mailto:rian.solma@gmail.com?subject=Assunto%20do%20Email&body=Olá%20Rian!!%0D%0A%0D%0AMe%20chamo">
         <img
             alt="Email"
             title="Entrar em contato"
