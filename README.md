@@ -36,7 +36,7 @@ Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo.
         />
     </a>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias 🚀
 
 <img 
     align="left" 
@@ -132,7 +132,6 @@ Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo.
     title="JAVA"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/RianLimaSouza/images@main/icons8-java-48.png"
 />
 <img
     align="left"
