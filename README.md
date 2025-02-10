@@ -2,7 +2,7 @@
 
 **`Estudante de programação`**
 
-Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursando o curso de Bacharel em Engenharia da Computação na Faculdade Impacta Tecnologia. Estou determinado a aprender e compartilhar meus conhecimentos no ramo de TI, sempre buscando meu crescimento profissional. Te convido também para acessar meu LinkedIn "[Rian Souza](www.linkedin.com/in/rian-souza-24a030248)".
+Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursando o curso de Bacharel em Engenharia da Computação na Faculdade Impacta Tecnologia. Estou determinado a aprender e compartilhar meus conhecimentos no ramo de TI, sempre buscando meu crescimento profissional. Te convido também para acessar meu LinkedIn "[Rian Souza](https://www.linkedin.com/in/rian-souza-24a030248)".
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rian-souza-24a030248/">
