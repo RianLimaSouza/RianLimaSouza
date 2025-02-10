@@ -21,7 +21,7 @@ Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo.
         />
     </a>
     </a>
-    <a href="https://github.com/RianLimaSouza/RianLimaSouza/edit/main/README.md">
+    <a href="https://github.com/RianLimaSouza/RianLimaSouza">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub :)" 
