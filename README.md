@@ -7,7 +7,7 @@ Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo.
 <p align="left">
     <a href="">
         <img
-        alt="Linkedin"
+        alt=""
         title="Conecte-se comigo"
         src="www.linkedin.com/in/rian-souza-24a030248" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-184-0077B5?style=for-the-badge&logo=icons8-linkedin-26&logoColor=white&labelColor=006097"
