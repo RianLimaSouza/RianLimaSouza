@@ -128,17 +128,9 @@ Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo.
 />
 <img
     align="left"
-    alt="TOTVS"
-    title="TOTVS"
-    width="60px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/RianLimaSouza/images@main/totvs-logo.svg"
-/>
-<img
-    align="left"
     alt="Java"
     title="JAVA"
-    width="40px"
+    width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/RianLimaSouza/images@main/icons8-java-48.png"
 />
