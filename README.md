@@ -28,7 +28,7 @@ Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo.
             src="https://custom-icon-badges.demolab.com/github/followers/RianLimaSouza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="mailto:rian.solma@gmail.com?subject=Assunto%20do%20Email&body=Olá%20Rian!!%0%A0AMe%20chamo">
+    <a href="mailto:rian.solma@gmail.com?subject=Assunto%20do%20Email&body=Olá%20Rian!!%0A%0AMe%20chamo">
         <img
             alt="Email"
             title="Entrar em contato"
