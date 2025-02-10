@@ -5,7 +5,7 @@
 Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursando o curso de Bacharel em Engenharia da Computação na Faculdade Impacta Tecnologia. Estou determinado a aprender e compartilhar meus conhecimentos no ramo de TI, sempre buscando meu crescimento profissional. Te convido também para acessar meu LinkedIn "[Rian Souza](www.linkedin.com/in/rian-souza-24a030248)".
 
 <p align="left">
-    <a href="">
+    <a href="https://www.linkedin.com/in/rian-souza-24a030248/">
         <img
         alt=""
         title="Conecte-se comigo"
@@ -28,7 +28,7 @@ Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo.
             src="https://custom-icon-badges.demolab.com/github/followers/RianLimaSouza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="mailto:rian.solma@gmail.com?subject=Assunto%20do%20Email&body=Olá%20Rian!!%0AMe%20chamo">
+    <a href="mailto:rian.solma@gmail.com?subject=Assunto%20do%20Email&body=Olá%20Rian!!%0%A0AMe%20chamo">
         <img
             alt="Email"
             title="Entrar em contato"
@@ -128,13 +128,28 @@ Olá! Meu nome é Rian Lima de Souza, tenho 19 anos e sou natural de São Paulo.
 />
 <img
     align="left"
+    alt="TOTVS"
+    title="TOTVS"
+    width="60px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/RianLimaSouza/images@main/totvs-logo.svg"
+/>
+<img
+    align="left"
     alt="Java"
-    title="Java"
+    title="JAVA"
+    width="40px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/RianLimaSouza/images@main/icons8-java-48.png"
+/>
+<img
+    align="left"
+    alt="C"
+    title="C"
     width="30px"
     style="padding-right: 10px"
-    src="https://"
+    src="https://cdn.jsdelivr.net/gh/RianLimaSouza/images@main/icons8-c-48.png"
 />
-
 <br/>
 <br/>
 
