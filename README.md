@@ -1,4 +1,4 @@
-# 🧑‍💻 Rian Souza 
+# 🧑‍💻 Rian Souza
 
 **`Estudante de programação`**
 
